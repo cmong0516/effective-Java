@@ -35,4 +35,13 @@ public final class PhoneNumber {
         result = 31 * result + Short.hashCode(lineNum);
         return result;
     }
+
+    @Override
+    public String toString() {
+        return "PhoneNumber{" +
+                "areaCode=" + areaCode +
+                ", prefix=" + prefix +
+                ", lineNum=" + lineNum +
+                '}';
+    }
 }
