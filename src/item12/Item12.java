@@ -14,5 +14,8 @@ public class Item12 {
 
         // 자동생성 toString
         // PhoneNumber{areaCode=9, prefix=213, lineNum=4244}
+
+        // 상위 클래스에서 올바르게 재정의된 toString 이 없다면 toString 재정의로 디버깅 효율성을 높일수 있다.
+        // toString 은 해당 객체에 관한 명확하고 유용한 정보를 읽기 좋은 형태로 반환해야 한다.
     }
 }
