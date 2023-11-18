@@ -30,30 +30,17 @@ public class Item14 {
         // compareTo 와 equals 의 결과가 일관되지 않아도 동작은 하지만
         // Collection , Set ,Map 등은 동치성 검사는 compareTo 를 사용하기 때문에 의도한대로 동작하지 않을수 있다.
 
-
         // 값의 차를 기준으로 정렬할때
 
-        Comparator<Object> hashCodeOrder = new Comparator<Object>() {
-            @Override
-            public int compare(Object o1, Object o2) {
-                return o1.hashCode() - o2.hashCode();
-            }
-        };
+        Comparator<Object> hashCodeOrder = (o1, o2) -> o1.hashCode() - o2.hashCode();
 
         // 위의 방식은 정수 overflow , 부동소수점 계산 오류 를 일으킬수 있다 아래의 방법을 사용하자.
 
-        Comparator<Object> hashCodeOrder2 = new Comparator<Object>() {
-            @Override
-            public int compare(Object o1, Object o2) {
-                return Integer.compare(o1.hashCode(), o2.hashCode());
-            }
-        };
+        Comparator<Object> hashCodeOrder2 = (o1, o2) -> Integer.compare(o1.hashCode(), o2.hashCode());
 
-        Comparator<Object> hashCodeOrder3 = Comparator.comparingInt(o -> o.hashCode());
-        }
-
-
+        Comparator<Object> hashCodeOrder3 = Comparator.comparingInt(Object::hashCode);
     }
 
 
 }
+
