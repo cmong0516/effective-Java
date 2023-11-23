@@ -45,11 +45,9 @@ public class Item30 {
         list.add(7);
         list.add(8);
 
-        Optional<Integer> max = max(list);
-        System.out.println("max = " + max);
+        Integer max = max(list);
 
-        List<Integer> empty = new ArrayList<>();
-        Optional<Integer> max1 = max(empty);
+        System.out.println("max = " + max);
 
 
     }
