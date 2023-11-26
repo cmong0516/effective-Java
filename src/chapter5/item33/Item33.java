@@ -22,7 +22,7 @@ public class Item33 {
         Favorites favorites = new Favorites();
 
         // 컴파일 에러 테스트
-        favorites.putFavorite(String.class,5);
+//        favorites.putFavorite(String.class,5);
 
         // 타입 일치 , 컴파일 성공.
         favorites.putFavorite(String.class, "Java");
