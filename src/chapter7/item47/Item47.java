@@ -28,3 +28,8 @@ public class Item47 {
 
 
 }
+
+
+// 원소 시퀀스를 반환하는 메서드를 작성할 때는 메서드가 스트림 파이프라인 에서만 쓰인다면 스트림을 , 반복문에서만 쓰인다면 Iterable 을 사용.
+// Iterable , Stream 을 모두 포함하는 Collection(AbstractList) 으로 반환할수 있다면 그렇게 해라.
+// 반환전에 이미 원소들을 컬렉션에 담아 관리하거나 원소의 개수가 적다면 ArrayList.
