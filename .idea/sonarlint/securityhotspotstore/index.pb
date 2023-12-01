@@ -1,53 +1,179 @@
 
 =
 src/Main.java,9/2/924f089edb4af5ee45c8a9d1129cd28e2b368138
-D
-src/item1/Item1.java,2/5/25df198fecb45d6b3b16000fd7bffc068a8488e3
-D
-src/item2/Item2.java,7/2/725ff7bd70a3bf93e7e9cfb7ed8011624c04dff7
-I
-src/item3/Singleton3.java,a/1/a18a1b531546b29055a89e96b9805e30c92869a3
-D
-src/item4/Item4.java,5/1/5157f3f8e72c9248431ab396c80f438b56993bf6
-I
-src/item3/Singleton1.java,9/5/9588fa6399a1b1d0e39f16bb299cbc64e5bf2937
-I
-src/item3/Singleton2.java,2/a/2a1df5e0b1001cd810c5afe72bfdc6fc2ea84ccf
-E
-src/item5/Logger.java,8/6/86bfd1367ebbc10549641e8e1ca43783a118999e
-D
-src/item3/Item3.java,7/d/7d47c14dd9edce84a35828de5605903b1ab7e5ac
-D
-src/item5/Item5.java,d/a/da7551debe5931e56b3f5abff11c7bb00b42cdb6
-D
-src/item6/Item6.java,a/b/ab2f879f2cdeb87462766f4f4ab2ab6e1fb6b55d
-D
-src/item7/Item7.java,6/9/69fe9555d360c1ee2a81a30e303ef272bce61059
-D
-src/item7/Stack.java,3/6/3609e7556fd3bdbbabc07a33c09163e6a534c144
-D
-src/item8/Item8.java,a/5/a5a92b3384d0c93259beb850346ed1ffe7640952
-C
-src/item8/Room.java,2/6/26b4a3b25b1e6c01ff4371e1d4c3290d2fa4c8e2
-D
-src/item9/Item9.java,3/c/3c7005ad0f98751e0d1830549407b4f7cc6853d3
-F
-src/item2/NyPizza.java,5/2/520734b6d43c3d6ed0074fa193c6969672e09193
-F
-src/item2/Calzone.java,c/7/c79d371d2cc83247689d30e78280df2060bf00c5
-D
-src/item2/Pizza.java,d/8/d8d5b0585a05c78627fa5092e8e48be9f1412eb1
-E
-src/item10/Point.java,e/4/e4330df158a8e503f0726fa0ecc113a1be06d623
-E
-src/item10/Color.java,d/0/d0e5fc56e705d83edb180ff6713536713c77ea09
-J
-src/item10/ColorPoint.java,b/0/b021355bdc7335d5c88099f75f447f20c2de8272
-F
-src/item10/Item10.java,8/a/8a2a25e53ffdd596455845a332817f3a51e60f51
-F
-src/item11/Item11.java,c/6/c661172cd0d59c2e78a4dd8787e8852d281cce45
-K
-src/item11/PhoneNumber.java,0/e/0ea66c47cfb8de8b4cb8e0afa92a549d8f4c5ff5
-F
-src/item12/Item12.java,1/7/1757413b288d217cea927da5b032d619c54be8c4
+T
+$src/chapter3/item11/PhoneNumber.java,7/b/7b87cbb0ece300f392dda45d6c0fc47610a7a4a4
+O
+src/chapter3/item12/Item12.java,8/1/815c72cb4d846c50d3c99792719556dbb9bb4d71
+M
+src/chapter2/item1/Item1.java,3/3/33f2167ecbc11baab436d34f1a0a80420d8cc740
+M
+src/chapter2/item4/Item4.java,3/9/39afd515d5574589e7caa3be9d9eb6a2ebe9e92c
+M
+src/chapter2/item5/Item5.java,8/d/8df7f8cc4bd5a343b2f436d5936605cb179eb2d7
+M
+src/chapter2/item6/Item6.java,9/5/95f662b8f203d8b00768fe1cae52bbeca65145be
+M
+src/chapter2/item7/Item7.java,d/6/d6c3568f2cfc650a110d35877f3d33c6a8a3abb3
+O
+src/chapter3/item14/Item14.java,d/e/de09e23e05ac06c1d27c9ff5365034bd4ca521cd
+O
+src/chapter4/item16/Item16.java,2/f/2fdc40293f27dc4ff7965d09dd5560c54e8ec408
+P
+ src/chapter4/item16/Pointer.java,5/4/54d53c750df91c8f68b1022f69eb70b5fb35f387
+M
+src/chapter4/item16/Time.java,e/5/e567ee3e872f48daa326a46de90e2f1e4772ca55
+O
+src/chapter4/item17/Item17.java,4/1/4111cf9217a1f60aa776010cac63c61a3b253317
+O
+src/chapter4/item15/Item15.java,9/b/9beada2ca8103dd803359558938ae776e8cb8cd3
+V
+&src/chapter4/item18/ForwardingSet.java,1/7/1744b3f22fb35b36afe520788a03ec4a6bca577c
+O
+src/chapter4/item18/Item18.java,6/f/6fac690d51a6bbeab721b7cd5d2af1abeeb747db
+X
+(src/chapter4/item18/InstrumentedSet.java,5/b/5bfb3e9db6d4da9803046ba2af1c62afdba4f62c
+\
+,src/chapter4/item18/InstrumentedHashSet.java,2/4/240c75a8203a41cef9c077d6659dc7014e38fc28
+P
+ src/chapter3/item13/Stack13.java,a/9/a91d6861ef5ef88d9549cf21289ac19b409d9544
+O
+src/chapter4/item19/Item19.java,d/6/d6500fe4da3d1cfb0457f7da6710523b37023014
+L
+src/chapter4/item19/Sub.java,2/7/2796d4ed8a50d40d689f4990343ab1d4984099f3
+N
+src/chapter4/item19/Super.java,f/0/f04f1f1b346735905597e9b14d8b1e7d6ee7532e
+O
+src/chapter3/item13/Item13.java,9/5/9567a5e75220409e3ec0e9746f84f84b357c8926
+O
+src/chapter3/item13/Person.java,a/4/a40584f8123fdc2c3e52c739ab61fb3387747d4f
+O
+src/chapter4/item24/Animal.java,b/8/b82eb23c11e6051ffbfc8630d441464dca124f70
+R
+"src/chapter4/item24/TestClass.java,5/c/5c40bb8174f30502a839342b394ce616fade98a1
+O
+src/chapter4/item21/Item21.java,d/9/d9d4e7ddcf9fcd859d9a2c1c394a8fb2bc39ca92
+N
+src/chapter4/item21/Sized.java,4/0/40d0ba62315cfcff6575b4cad7c76e146463b8ea
+O
+src/chapter4/item23/Item23.java,6/c/6c5f30979e816967941d7c59d0c819be16bd5932
+O
+src/chapter4/item23/Figure.java,0/8/08ab56c2da9e02e2f70c92a5cecf24764d756900
+P
+ src/chapter4/item23/Figure2.java,5/1/519be4c9ec62092bbc779b1552b21bb832bcdf19
+O
+src/chapter4/item24/Item24.java,2/9/2972d95fa206b6a5033a60c425f94b3478354e86
+O
+src/chapter4/item25/Item25.java,5/6/56dd990c5ba64157712d4453a64ba906c0d61e96
+O
+src/chapter5/item26/Item26.java,9/d/9d06a8b7586743407b9154426c09fb863a9c6242
+O
+src/chapter5/item27/Item27.java,f/1/f1d06533729a13b60a14a8f3d1347a4fa91e7e3f
+P
+ src/chapter5/item28/Chooser.java,d/c/dcee7abb8a1a8ae8c823aa6f4ef4ecf083f40bc8
+Q
+!src/chapter5/item28/Chooser2.java,c/3/c348f8d6c80eee4844de9c9e1c31913d11629be9
+M
+src/chapter2/item7/Stack.java,5/7/576442446b20df0270d863718842d6d868329bb5
+P
+ src/chapter5/item29/Stack29.java,5/e/5e2f4f6d50197905c595f9d182868703515ccf97
+O
+src/chapter5/item29/Item29.java,a/0/a0e742c215959e1c9ddbccd388bbd14f23b99e17
+O
+src/chapter5/item30/Item30.java,f/f/ffeb010e84a78f5a5064fa887251278bb9d0e57d
+P
+ src/chapter5/item31/Stack31.java,f/1/f1c70c1469f3f4d1b9fd331fd2a80e542f60eff3
+R
+"src/chapter5/item31/Chooser31.java,4/1/411092cc3be51a5007c8595ae177fcd525d8403b
+P
+ src/chapter5/item31/Union31.java,a/a/aa6ffd982cc492d293c06ffc7c978cfdecfbcc32
+[
++src/chapter5/item31/RecursiveTypeBound.java,8/0/806ccc512a0fbe03c598735755c35a8c245a6694
+O
+src/chapter5/item28/Item28.java,f/6/f60fa0e1f6c8b2e6fe2bb3e6576b4f1115b51cc7
+O
+src/chapter5/item32/Item32.java,2/1/2146dcd7079178c0874b435f49bfa6c9f452bf8e
+O
+src/chapter5/item31/Item31.java,7/a/7a391453a54bfd856fb87679cc7fbe059b27f11a
+O
+src/chapter5/item33/Item33.java,a/8/a851c9abb60959262b4e7c28dccf2c922f34f3e8
+O
+src/chapter6/item34/Planet.java,6/1/610cdd53932f6f5198d77343cdda6a227e1b6e59
+T
+$src/chapter6/item34/WeightTable.java,4/1/4183746bbfb953393158c3c6f20932413e10689c
+S
+#src/chapter6/item34/PayrollDay.java,4/8/4846342db2a9c5ffc84767417fc646d83abb52a7
+O
+src/chapter6/item35/Item35.java,d/7/d76d790669dd446c73122fd86840f6545c4de777
+Q
+!src/chapter6/item35/Ensemble.java,7/8/783eb686c01e255efd6ee5c46bda7e05649507d1
+O
+src/chapter6/item36/Item36.java,0/f/0f2f1a1ffa381f78b0fe738a4ece12ff8fcf2162
+O
+src/chapter6/item34/Item34.java,9/d/9dc8969b1c62392e2926dd710ab710c0b3e4e124
+M
+src/chapter6/item36/Text.java,f/2/f209236c7fe96590aed8696b1bb3d0e0ec957412
+O
+src/chapter6/item37/Item37.java,d/1/d15000b275ea0f6380618ae444d4a6d804e68a08
+P
+ src/chapter6/item37/Plant37.java,5/7/57b761920a8f1cd096f6e31732d70a63884eda1b
+N
+src/chapter6/item37/Phase.java,0/2/02e7a4f89415ffc52528584564d4535fa728801f
+O
+src/chapter6/item38/Item38.java,e/9/e95bbe3f061d32e2ec7b767620f7471185e8c59c
+R
+"src/chapter6/item38/Operation.java,0/f/0ff332b32f25c37744591adda9fdd70ac7f8e03d
+W
+'src/chapter6/item38/BasicOperation.java,0/5/05e98e3d970b59bec6d28406ed8ab36ba70af9e3
+R
+"src/chapter5/item33/Favorites.java,a/2/a21661202e3d6dbc9ee5ebf5fa29831d3329b787
+R
+"src/chapter4/item20/IntArrays.java,1/c/1c5e17c0bbcfa17c4b64151ba54acd40bf5adb52
+Z
+*src/chapter6/item38/ExtendedOperation.java,0/0/00751c8942997cdfc4b7498a606eed7fff4fa2f7
+O
+src/chapter6/item39/Test39.java,5/f/5f13573549b7e6baf0d9eb62d4b181f55d4b198c
+O
+src/chapter4/item20/Item20.java,5/5/558bc3231e76e436c609fec4528c8928fae2625b
+Q
+!src/chapter6/item39/Sample39.java,9/b/9b2e2f64199f7c68bf341e75a7b1067ae16cc235
+X
+(src/chapter6/item39/ExceptionTest39.java,6/5/65c6e0b6bdc1d0099e784cbfe5a38c1ef5ec92e2
+R
+"src/chapter6/item39/Sample392.java,b/f/bfb12ca2eb9f39955d66a60ac95e676d5e3a6e39
+S
+#src/chapter6/item39/RunTests39.java,d/0/d0566b1c905f47c165bb897edce0d50886c46348
+O
+src/chapter6/item39/Item39.java,7/8/7808b426b805c5b1daa3dd4f99cd18c0d150e8be
+O
+src/chapter6/item40/Item40.java,2/9/2981bfe04b16a9fa2b4411d8b3b6d1130ddaa561
+O
+src/chapter6/item40/Bigram.java,7/e/7eed493e60a711f9d643001ed5944222ee6bbeef
+O
+src/chapter4/item22/Item22.java,c/6/c6f6e03cfa93790e6716baba52d8fa6c3103f8f3
+R
+"src/chapter6/item34/Operation.java,1/a/1ae49c5becd38f993f98d0c780d6deb855a679c2
+O
+src/chapter7/item43/Item43.java,6/5/6567ab18bbfdb0dfd0e2f1b3d4985dcc4f190328
+O
+src/chapter7/item44/Item44.java,0/e/0e1e87cdf0e51813c9731623ffab8e4e3268b380
+O
+src/chapter6/item41/Item41.java,c/a/ca57469edfba7635ef10d22339caca840888c5c6
+Q
+!src/chapter7/item45/Anagrams.java,5/9/59334c91d1e9af0a1f02f5325352436fa9cd69cf
+W
+'src/chapter7/item45/StreamAnagrams.java,6/f/6f932b75eccd354e71812fe71953b8320f0f4ac6
+O
+src/chapter7/item42/Item42.java,c/2/c2a87c1305dfe4df164f9ab6ff50eb2432dbcfed
+O
+src/chapter7/item45/Item45.java,0/f/0f6b24b5678f799a575ffa0c246fd0d2acf5390a
+T
+$src/chapter7/item42/Operation42.java,0/0/00070391d5c67306ea534c725e032d7d72577871
+O
+src/chapter7/item46/Item46.java,6/2/6261cf4a9f5bb707d16724cc5b77a007ae2254c8
+Q
+!src/chapter7/item47/SubLists.java,2/c/2c17c54a05dc5d11a68db1d28a391b1084980e1a
+O
+src/chapter7/item47/Item47.java,d/c/dc6123ddc3c855c431bc60486f074776c18c91cf
+Q
+!src/chapter7/item47/PowerSet.java,c/0/c02c8abeb18d03da5ecbeb0469e39f2024100d98

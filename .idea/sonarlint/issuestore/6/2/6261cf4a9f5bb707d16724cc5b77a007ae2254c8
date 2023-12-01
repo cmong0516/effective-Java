@@ -1,0 +1,14 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÏÇÄúÿÿÿÿ8ğıİÏÁ1
+X	java:S125"<This block of commented-out lines of code should be removed.(ş¨¢Ü8÷ıİÏÁ1
+X	java:S125"<This block of commented-out lines of code should be removed.(‚î€ˆ8øıİÏÁ1
+M
+java:S1481&"+Remove this unused "topTen" local variable.(¿¾¿âøÿÿÿÿ8úıİÏÁ1
+]	java:S125-"<This block of commented-out lines of code should be removed.(„«¬¤ıÿÿÿÿ8ûıİÏÁ1
+]	java:S1250"<This block of commented-out lines of code should be removed.(ñ¬ö¹ùÿÿÿÿ8ûıİÏÁ1
+]	java:S1255"<This block of commented-out lines of code should be removed.(êÎ˜ƒúÿÿÿÿ8ûıİÏÁ1
+]	java:S125;"<This block of commented-out lines of code should be removed.(´Ğ­Úÿÿÿÿÿ8ûıİÏÁ1
+`
+java:S1128">Remove this unused import 'java.util.stream.Collectors.maxBy'.(©œÓ‰ûÿÿÿÿ8ûıİÏÁ1
+`
+java:S1128">Remove this unused import 'java.util.stream.Collectors.toMap'.(£êéÂúÿÿÿÿ8ûıİÏÁ1

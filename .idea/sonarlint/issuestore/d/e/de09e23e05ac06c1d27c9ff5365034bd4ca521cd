@@ -1,0 +1,16 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¹ê¡–ùÿÿÿÿ8ÁüÙ—¾1
+_
+java:S1854)"BRemove this useless assignment to local variable "hashCodeOrder3".(åÖÑ©8ÈüÙ—¾1
+d
+java:S1854'"BRemove this useless assignment to local variable "hashCodeOrder2".(™‘ÛËÿÿÿÿÿ8ÈüÙ—¾1
+c
+java:S1854#"ARemove this useless assignment to local variable "hashCodeOrder".(ûÅäÎùÿÿÿÿ8ÈüÙ—¾1
+G	java:S106"+Replace this use of System.out by a logger.(ç’¤™8ÊüÙ—¾1
+]	java:S125"<This block of commented-out lines of code should be removed.(Î’”Ìùÿÿÿÿ8ÊüÙ—¾1
+T
+java:S1481#"2Remove this unused "hashCodeOrder" local variable.(ûÅäÎùÿÿÿÿ8ËüÙ—¾1
+U
+java:S1481'"3Remove this unused "hashCodeOrder2" local variable.(™‘ÛËÿÿÿÿÿ8ÌüÙ—¾1
+P
+java:S1481)"3Remove this unused "hashCodeOrder3" local variable.(åÖÑ©8ÑüÙ—¾1

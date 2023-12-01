@@ -1,0 +1,9 @@
+
+Q
+java:S3740+"/Provide the parametrized type for this generic.(î–Àıÿÿÿÿ8¥Ø»üÁ1
+Q
+java:S3740+"/Provide the parametrized type for this generic.(î–Àıÿÿÿÿ8¦Ø»üÁ1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÏÈÌ8ù©ºüÁ1
+b
+java:S6201"@Replace this instanceof check and cast with 'instanceof Set set'(±Ü½ øÿÿÿÿ8‰ªºüÁ1
+G	java:S106,"+Replace this use of System.out by a logger.(íµğò8µØ»üÁ1

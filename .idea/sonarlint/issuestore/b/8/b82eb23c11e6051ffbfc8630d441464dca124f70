@@ -1,0 +1,12 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(•ÚÃÑ8˜Œ¼ÿ¾1
+C
+java:S1170"!Make this final field static too.(Œğµêùÿÿÿÿ8šŒ¼ÿ¾1
+N
+java:S3985"1Remove this unused private "PrivateSapmle" class.(Ä÷¬¼8”«¾ÿ¾1
+F	java:S106"+Replace this use of System.out by a logger.(¢¬ö+8Œ¼ÿ¾1
+L	java:S106"+Replace this use of System.out by a logger.(ÿÍ›Õıÿÿÿÿ8Œ¼ÿ¾1
+J
+java:S1068"(Remove this unused "tmep" private field.(ü·èúıÿÿÿÿ8Œ¼ÿ¾1
+E
+java:S1068"(Remove this unused "temp" private field.(±’†™8Œ¼ÿ¾1

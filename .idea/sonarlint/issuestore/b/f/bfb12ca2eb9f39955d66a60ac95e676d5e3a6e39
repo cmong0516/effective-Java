@@ -1,0 +1,16 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡±æÕÿÿÿÿÿ
+Y
+java:S3518"7Make sure "i" can't be zero before doing this division.(Ğ­æñúÿÿÿÿ8€Ñ‘‚Á1
+
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ğÚ³Ÿ8³ª—‚Á1
+\
+java:S1118":Add a private constructor to hide the implicit public one.(¿øˆøÿÿÿÿ8Ñ‘‚Á1
+W
+java:S1854"5Remove this useless assignment to local variable "i".(Ğ­æñúÿÿÿÿ8Ñ‘‚Á1
+l
+java:S1764"JCorrect one of the identical sub-expressions on both sides of operator "/"(Ğ­æñúÿÿÿÿ8‚Ñ‘‚Á1
+W
+java:S1854"5Remove this useless assignment to local variable "i".(¾ßöüÿÿÿÿ8ö¦–‚Á1
+H
+java:S1481"&Remove this unused "i" local variable.(¾ßöüÿÿÿÿ8÷¦–‚Á1

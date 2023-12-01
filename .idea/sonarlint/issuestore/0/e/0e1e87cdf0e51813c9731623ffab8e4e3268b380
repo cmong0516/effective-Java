@@ -1,0 +1,18 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ìŠÖ×şÿÿÿÿ8Óÿ…Á1
+s
+java:S4276"QRefactor this code to use the more specialised Functional Interface 'IntConsumer'(î÷Û¸şÿÿÿÿ8×ÿ…Á1
+L	java:S106"+Replace this use of System.out by a logger.(î÷Û¸şÿÿÿÿ8Øÿ…Á1
+}
+java:S4276"[Refactor this code to use the more specialised Functional Interface 'ToIntFunction<String>'(”à©‘úÿÿÿÿ8Øÿ…Á1
+o
+java:S4276"RRefactor this code to use the more specialised Functional Interface 'IntPredicate'(¤Ó´£8Ùÿ…Á1
+x
+java:S4276"VRefactor this code to use the more specialised Functional Interface 'IntUnaryOperator'(ëëå¸ûÿÿÿÿ8Ùÿ…Á1
+G	java:S106("+Replace this use of System.out by a logger.(õšÌú8Úÿ…Á1
+G	java:S106)"+Replace this use of System.out by a logger.(²Ïõñ8Úÿ…Á1
+G	java:S106*"+Replace this use of System.out by a logger.(•†¼ü8Úÿ…Á1
+L	java:S106+"+Replace this use of System.out by a logger.(ÍÁùÿÿÿÿ8Úÿ…Á1
+L	java:S106,"+Replace this use of System.out by a logger.(‰ÊàÀıÿÿÿÿ8Úÿ…Á1
+Z
+java:S1128"=Remove this unused import 'java.util.function.ToIntFunction'.(§÷Ù8Ç®ˆÁ1

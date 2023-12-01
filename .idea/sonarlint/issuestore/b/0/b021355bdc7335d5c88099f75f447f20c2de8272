@@ -1,7 +1,0 @@
-
-v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÇÐÏ›8ˆ‡’Ð½1
-X	java:S125"<This block of commented-out lines of code should be removed.(Úºðþ8âŸ£Ð½1
-K
-java:S1068")Remove this unused "point" private field.(ð¼ý±øÿÿÿÿ8þþ£Ð½1
-F
-java:S1068")Remove this unused "color" private field.(¸Ä‰Í8äŸ£Ð½1
