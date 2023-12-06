@@ -1,0 +1,17 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ú€˜–ùÿÿÿÿ8ÒæôüÂ1
+V
+java:S3400"9Remove this method and declare a constant for this value.(ÒúÙˆ8ØæôüÂ1
+G
+java:S1172"*Remove this unused method parameter "set".(ãĞá‹8ÙæôüÂ1
+[
+java:S3400"9Remove this method and declare a constant for this value.(Èüßûÿÿÿÿ8ÙæôüÂ1
+M
+java:S1172"+Remove this unused method parameter "list".(İ¶ÂÉşÿÿÿÿ8ÙæôüÂ1
+V
+java:S3400"9Remove this method and declare a constant for this value.(ÙõªÍ8ÙæôüÂ1
+N
+java:S1172"1Remove this unused method parameter "collection".(–ğ˜º8ÚæôüÂ1
+a
+java:S3358"DExtract this nested ternary operation into an independent statement.(Œ»÷›8ÛæôüÂ1
+L	java:S106%"+Replace this use of System.out by a logger.(¸ÁÜ—úÿÿÿÿ8ŞæôüÂ1

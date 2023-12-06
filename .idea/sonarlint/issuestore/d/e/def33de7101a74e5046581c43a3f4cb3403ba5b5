@@ -1,0 +1,13 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(³©–¶øÿÿÿÿ8àØÔªÂ1
+]	java:S125"<This block of commented-out lines of code should be removed.(¥«àþøÿÿÿÿ8¡ÅÝªÂ1
+X	java:S125/"<This block of commented-out lines of code should be removed.(¥ËÑË8û÷ªÂ1
+X	java:S1254"<This block of commented-out lines of code should be removed.(®¦éì8ü÷ªÂ1
+L	java:S106H"+Replace this use of System.out by a logger.(‹¥þãúÿÿÿÿ8ïØÔªÂ1
+Q
+java:S1874J"/Remove this use of "setYear"; it is deprecated.(Ñèí‡ÿÿÿÿÿ8Ô¬ÖªÂ1
+L	java:S106L"+Replace this use of System.out by a logger.(‹¥þãúÿÿÿÿ8ÄÖªÂ1
+L	java:S106W"+Replace this use of System.out by a logger.(£Åÿùÿÿÿÿ8ºÏêªÂ1
+L
+java:S1874Y"/Remove this use of "setYear"; it is deprecated.(º®·ô8¡çêªÂ1
+L	java:S106["+Replace this use of System.out by a logger.(£Åÿùÿÿÿÿ8ì·ëªÂ1

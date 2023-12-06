@@ -177,3 +177,47 @@ O
 src/chapter7/item47/Item47.java,d/c/dc6123ddc3c855c431bc60486f074776c18c91cf
 Q
 !src/chapter7/item47/PowerSet.java,c/0/c02c8abeb18d03da5ecbeb0469e39f2024100d98
+O
+src/chapter7/item48/Item48.java,5/1/51b6ce98d3facae46fc96e969b73296c499a67c1
+O
+src/chapter8/item49/Item49.java,7/5/759c4ceaa565ccfdfb985dfb075fcdc17bd75adc
+O
+src/chapter8/item50/Item50.java,e/6/e62773cdf7b1b412881d67568953c49b1401881e
+O
+src/chapter8/item50/Period.java,d/e/def33de7101a74e5046581c43a3f4cb3403ba5b5
+M
+src/chapter2/item2/Item2.java,8/c/8c74eb16abd7556943ec5a575addbc9bf4907054
+O
+src/chapter2/item2/NyPizza.java,a/d/ad9436eb8bb4327fdc07c3d9c1ff374a9c461da7
+M
+src/chapter8/item52/Wine.java,0/f/0f4736da091283456cf2c4d0e6138deb98da20db
+V
+&src/chapter8/item52/SparklingWine.java,f/0/f041cbd254d415669e299032ba55f1eada153cc7
+R
+"src/chapter8/item52/Champagne.java,a/d/adb193a49dd9894586f05984dff935cf40c74ec3
+U
+%src/chapter8/item52/Overriding52.java,b/e/be0faa011730c89187d231b44a6ef61285f9816f
+_
+/src/chapter8/item52/CollectionClassifier52.java,5/1/51d4190ff3db488cc3ab4bdf066fd060e2493cf2
+O
+src/chapter8/item51/Item51.java,5/e/5ebf5a00cdf646f105eb46527563d8516ab5a630
+O
+src/chapter8/item52/Item52.java,3/5/3546b101fd56d86f7d58bece7d6ca8a60f77eea7
+R
+"src/chapter8/item52/SetList52.java,4/f/4f91edf65310c4a2841c454135ad18b8c94f4933
+O
+src/chapter8/item53/Item53.java,a/2/a2f83feba33385a79a1d6e4cbb78627a418ac13b
+O
+src/chapter8/item54/Item54.java,7/9/790c1c0089b98be37d5fc6d2efc8a487ff108ac3
+O
+src/chapter8/item55/Item55.java,0/8/0829341ce2bc925447e753c5832ac556a176848c
+O
+src/chapter8/item56/Item56.java,b/3/b37ab41d54b6fcd5586bd54e8d2c37ad9a488fcb
+O
+src/chapter9/item57/Item57.java,d/6/d671c606c9e9de2682309a46a009e55dd448c5ef
+O
+src/chapter9/item58/Item58.java,1/9/1940654d5dc9f1c8844b0df2f7005482630f6090
+O
+src/chapter9/item59/Item59.java,0/5/0505e3fd432b60e26e7015a932fca55effc11d58
+O
+src/chapter9/item60/Item60.java,b/8/b8868a3b996ec48085dc7a77ca3361ef0625ab22
