@@ -1,0 +1,15 @@
+
+X
+java:S4973"<Strings and Boxed types should be compared using "equals()".(±æ¶I8“¶ÒìÃ1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(†Ã•Ìşÿÿÿÿ8”¶ÒìÃ1
+`
+java:S3358"DExtract this nested ternary operation into an independent statement.(±æ¶I8œ¶ÒìÃ1
+>
+java:S2129"!Remove this "Integer" constructor(Ÿ½ö8¶ÒìÃ1
+e
+java:S5738"HRemove this call to a deprecated method, it has been marked for removal.(Ÿ½ö8 ¶ÒìÃ1
+>
+java:S2129"!Remove this "Integer" constructor(Ÿ½ö8¡¶ÒìÃ1
+e
+java:S5738"HRemove this call to a deprecated method, it has been marked for removal.(Ÿ½ö8¡¶ÒìÃ1
+G	java:S106"+Replace this use of System.out by a logger.(ˆ¨¿¼8¢¶ÒìÃ1

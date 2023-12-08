@@ -221,3 +221,15 @@ O
 src/chapter9/item59/Item59.java,0/5/0505e3fd432b60e26e7015a932fca55effc11d58
 O
 src/chapter9/item60/Item60.java,b/8/b8868a3b996ec48085dc7a77ca3361ef0625ab22
+O
+src/chapter9/item61/Item61.java,5/6/565370816c599c9b96b68bbeba15717c47341c2d
+U
+%src/chapter9/item61/Unbelievable.java,b/1/b1acbf8c3178931122b2edda16eef9f11b03b466
+O
+src/chapter9/item62/Item62.java,3/2/32780d2ae0ae87f6f58b19acd07ac3d23926ad80
+O
+src/chapter9/item63/Item63.java,f/8/f83824dd3b606092767332542d6ab971212f8939
+O
+src/chapter9/item64/Item64.java,a/b/abb5c1dca70971b2cb801fa8dfe7623d5a7d6788
+O
+src/chapter9/item65/Item65.java,e/4/e420f6640b590485dc7345608466027aecdf54df
