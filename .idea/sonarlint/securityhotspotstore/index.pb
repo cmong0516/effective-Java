@@ -233,3 +233,9 @@ O
 src/chapter9/item64/Item64.java,a/b/abb5c1dca70971b2cb801fa8dfe7623d5a7d6788
 O
 src/chapter9/item65/Item65.java,e/4/e420f6640b590485dc7345608466027aecdf54df
+O
+src/chapter9/item66/Item66.java,5/6/5641f95a955bfdaa9ab77df6f5e8fe6d5e9a741b
+O
+src/chapter9/item67/item67.java,d/b/db6834524f32b026caf609b9d7bd9dd2c5a52dc3
+O
+src/chapter9/item68/Item68.java,2/2/22f18bcdaa26c0bad3485bff83822c14d2058282
