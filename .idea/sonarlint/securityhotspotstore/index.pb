@@ -255,3 +255,11 @@ P
  src/chapter10/item75/Item75.java,1/a/1a8f686f7fe9ea493682a5658ad1995a2f3ba085
 P
  src/chapter10/item76/Item76.java,8/4/8453e9c20477cabffaa73e7b3550a064788723f4
+P
+ src/chapter10/item77/Item77.java,6/8/68e27c9729a4892523b1b5ab2469bbaed6ec2d44
+P
+ src/chapter11/item78/Item78.java,b/0/b09ce6ee57eb8d554dc203fb706841397c2b23b6
+T
+$src/chapter11/item78/StopThread.java,4/2/42d182d47ae7cf29eb89fa0b9b119f1926019148
+U
+%src/chapter11/item78/StopThread2.java,7/8/781d228bf44698d40e65f4f003fa7c7a703a90f8
