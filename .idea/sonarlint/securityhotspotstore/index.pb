@@ -247,3 +247,5 @@ P
  src/chapter10/item71/Item71.java,4/1/416f97fc68aeaa54afa1f0750962e59363400b42
 P
  src/chapter10/item72/Item72.java,2/b/2bdae1eac747d209db74fa4d7dd754e1ee7425bf
+P
+ src/chapter10/item73/Item73.java,7/5/75fc4fa739c8d513d77bd7e3ce79577d47134bad
