@@ -239,3 +239,11 @@ O
 src/chapter9/item67/item67.java,d/b/db6834524f32b026caf609b9d7bd9dd2c5a52dc3
 O
 src/chapter9/item68/Item68.java,2/2/22f18bcdaa26c0bad3485bff83822c14d2058282
+P
+ src/chapter10/item69/Item69.java,0/7/0701c0ff2e2cf6035704a62b8a5c3b5dd407137f
+P
+ src/chapter10/item70/Item70.java,e/c/ec0c3e7cadf068ad5b242f8691561d53cae61a6b
+P
+ src/chapter10/item71/Item71.java,4/1/416f97fc68aeaa54afa1f0750962e59363400b42
+P
+ src/chapter10/item72/Item72.java,2/b/2bdae1eac747d209db74fa4d7dd754e1ee7425bf
