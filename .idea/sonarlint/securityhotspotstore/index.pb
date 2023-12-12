@@ -263,3 +263,15 @@ T
 $src/chapter11/item78/StopThread.java,4/2/42d182d47ae7cf29eb89fa0b9b119f1926019148
 U
 %src/chapter11/item78/StopThread2.java,7/8/781d228bf44698d40e65f4f003fa7c7a703a90f8
+P
+ src/chapter11/item79/Item79.java,4/2/42053aae818cd67ef30a81e03a999366ac982838
+W
+'src/chapter11/item79/ObservableSet.java,2/8/28f950d6a382e30598a1553c4b84f005996b1568
+U
+%src/chapter11/item79/SetObserver.java,a/9/a98a661ee631c7683d6faa185c3302d8d8ea417b
+Q
+!src/chapter11/item79/Test791.java,6/6/660058ae98b90a4ee487706df37e6ef5f8e27a3d
+Q
+!src/chapter11/item79/Test792.java,4/1/414370a0a80566085224b0aea6ad5dd2b79cc8b9
+Q
+!src/chapter11/item79/Test793.java,5/3/5399cc5f2bd6d1ab059f26d8d73ba3b2b488cf94

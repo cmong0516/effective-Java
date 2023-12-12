@@ -1,0 +1,9 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÇßÄúÿÿÿÿÿ8‹ø§áÅ1
+M
+java:S2160
+"+Override the "equals" method in this class.(Å×¤ìùÿÿÿÿ8•ø§áÅ1
+]	java:S125O"<This block of commented-out lines of code should be removed.(Àó´‚ûÿÿÿÿ8œø§áÅ1
+L	java:S106S"+Replace this use of System.out by a logger.(¬ĞË‹ùÿÿÿÿ8ø§áÅ1
+U
+java:S1144)"8Remove this unused private "notifyElementAdded2" method.(¶ëÜ8âÕ¨áÅ1
