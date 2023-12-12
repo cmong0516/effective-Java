@@ -279,3 +279,5 @@ P
  src/chapter11/item80/Item80.java,0/5/050b5bee2baa7f04b07981ff8a0c0d06108c4dd2
 P
  src/chapter11/item81/Item81.java,3/9/398e65b23a05a1e3aff1cfbf7642d5a7475ed25b
+P
+ src/chapter11/item82/Item82.java,2/9/29c31059d76bbe3ae3fe15fd410da809c8c91998
