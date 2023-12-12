@@ -287,3 +287,7 @@ S
 #src/chapter11/item83/FieldType.java,f/b/fbfaa44d661fe6c61b535b70ba54cec220838b69
 X
 (src/chapter11/item83/Initialization.java,c/8/c87ae4ad237f8b7fa61aac985c70d195333946de
+P
+ src/chapter11/item84/Item84.java,d/5/d51bfd7355ab0a1b249a89f089ef9db406a18722
+\
+,src/chapter11/item84/SlowCountDownLatch.java,7/7/77592eb8956fd5eb5eba4dce05a0701acb99612b

@@ -1,7 +1,12 @@
 
 {	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(îÌ ®şÿÿÿÿ8ÕæóäÅ1
-G
-java:S1068"*Remove this unused "field1" private field.(Âú¶õ8ØæóäÅ1
+y
+java:S3077"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(î…×ıÿÿÿÿ8ÄƒÉîÅ1
+y
+java:S30770"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(’ˆïñşÿÿÿÿ8ÆƒÉîÅ1
+G	java:S106E"+Replace this use of System.out by a logger.(´ü»ˆ8ïßËåÅ1
+L
+java:S1068"*Remove this unused "field1" private field.(¨©¿úÿÿÿÿ8ØæóäÅ1
 K
 java:S1144
 ".Remove this unused private "getField2" method.(´™ëá8·ÉùäÅ1

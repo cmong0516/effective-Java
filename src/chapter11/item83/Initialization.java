@@ -2,7 +2,7 @@ package chapter11.item83;
 
 public class Initialization {
     // 일반적인 인스턴스 필드 초기화 방법.
-    private final FieldType field1 = computeFiledValue();
+    private final FieldType field1 = computeFieldValue();
 
     private FieldType field2;
 
@@ -64,5 +64,9 @@ public class Initialization {
     // 인스턴스 필드 -> 이중곰사 관용구
     // 정적 필드 -> 연 초기화 홀더 클래스
     // 반복 초기화 가능한 인스턴스 필드 -> 단일검사 관용구
+
+    public static void main(String[] args) {
+        System.out.println("Hello world");
+    }
 
 }
