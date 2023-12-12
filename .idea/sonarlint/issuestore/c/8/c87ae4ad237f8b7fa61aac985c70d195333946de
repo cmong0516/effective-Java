@@ -1,0 +1,13 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(îÌ ®şÿÿÿÿ8ÕæóäÅ1
+G
+java:S1068"*Remove this unused "field1" private field.(Âú¶õ8ØæóäÅ1
+K
+java:S1144
+".Remove this unused private "getField2" method.(´™ëá8·ÉùäÅ1
+J
+java:S1144"-Remove this unused private "getField" method.(æÑ›8«®ˆåÅ1
+K
+java:S1144".Remove this unused private "getField4" method.(Ÿ˜ù8«®ˆåÅ1
+K
+java:S11442".Remove this unused private "getField5" method.(İ¾8«®ˆåÅ1

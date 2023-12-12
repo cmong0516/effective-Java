@@ -281,3 +281,9 @@ P
  src/chapter11/item81/Item81.java,3/9/398e65b23a05a1e3aff1cfbf7642d5a7475ed25b
 P
  src/chapter11/item82/Item82.java,2/9/29c31059d76bbe3ae3fe15fd410da809c8c91998
+P
+ src/chapter11/item83/Item83.java,9/a/9acecf6265f0ca6d8684f434b8051210430b9eaf
+S
+#src/chapter11/item83/FieldType.java,f/b/fbfaa44d661fe6c61b535b70ba54cec220838b69
+X
+(src/chapter11/item83/Initialization.java,c/8/c87ae4ad237f8b7fa61aac985c70d195333946de
