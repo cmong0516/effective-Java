@@ -9,7 +9,7 @@ public class Item80 {
     public static void main(String[] args) {
         ExecutorService exec = Executors.newSingleThreadExecutor();
 
-        exec.execute(runnable);
+        // exec.execute(runnable);
         // 이렇게 하면 이 실행자에 실행할 태스크를 넘길수 있다.
 
         exec.shutdown();
