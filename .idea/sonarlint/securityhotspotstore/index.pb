@@ -293,3 +293,5 @@ P
 ,src/chapter11/item84/SlowCountDownLatch.java,7/7/77592eb8956fd5eb5eba4dce05a0701acb99612b
 P
  src/chapter12/item85/Item85.java,7/1/712a95c654700e92c3e4f6bfe719595111543796
+P
+ src/chapter12/item86/Item86.java,f/3/f32f29b1234b5baac3f7869c73d12aecc949edfd
