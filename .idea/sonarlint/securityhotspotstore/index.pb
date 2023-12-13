@@ -295,3 +295,9 @@ P
  src/chapter12/item85/Item85.java,7/1/712a95c654700e92c3e4f6bfe719595111543796
 P
  src/chapter12/item86/Item86.java,f/3/f32f29b1234b5baac3f7869c73d12aecc949edfd
+P
+ src/chapter12/item87/Item87.java,a/4/a43b4633eae5cd568f52c5f776d2de7e1e0d0397
+N
+src/chapter12/item87/Name.java,b/a/ba89aee498fd07fc0bd9f9ffd4534d08169bae32
+T
+$src/chapter12/item87/StringList.java,d/9/d921b4ccf26e944187db9fed337ffca23f04d653
