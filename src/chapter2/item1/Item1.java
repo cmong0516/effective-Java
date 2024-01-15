@@ -12,6 +12,7 @@ public class Item1 {
 
     // createNoOil 이라는 메서드 이름으로 어떤 인스턴스가 생성되는지 한눈에 알수 있다.
 
+
 }
 
 class Car1 {
