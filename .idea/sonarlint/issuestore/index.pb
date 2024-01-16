@@ -325,3 +325,5 @@ K
 src/chapter2/item5/item5.md,6/c/6c414e12a9b54c3f93582718f8a16196b50f180b
 K
 src/chapter2/item6/item6.md,a/b/ab50c5ea792684783714ca4a0a031706bd31c52e
+K
+src/chapter2/item7/item7.md,a/d/ad7966f6fdbb1666cfb2d490fe81aa4b66de88ce
