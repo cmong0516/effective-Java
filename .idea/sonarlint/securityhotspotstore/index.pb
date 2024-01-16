@@ -327,3 +327,7 @@ K
 src/chapter2/item6/item6.md,a/b/ab50c5ea792684783714ca4a0a031706bd31c52e
 K
 src/chapter2/item7/item7.md,a/d/ad7966f6fdbb1666cfb2d490fe81aa4b66de88ce
+L
+src/chapter2/item8/Room.java,2/c/2c1e97c367faca95dacc7000e020ff4ec78278d9
+K
+src/chapter2/item8/item8.md,1/3/13a200e983a67211d28af260e4e79d5f2ccd3c51
