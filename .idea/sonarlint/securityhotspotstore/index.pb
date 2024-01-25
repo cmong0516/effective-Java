@@ -341,3 +341,5 @@ M
 	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
 M
 src/chapter3/item11/item11.md,2/8/2838607443308c831742cf8624ff7ade1d31bdf7
+M
+src/chapter3/item12/item12.md,d/2/d2cdbc8378c59bf59c6e6773e7be8425e8b4330d
