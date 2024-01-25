@@ -48,11 +48,37 @@ public final class PhoneNumber {
 }
 ~~~
 
-# 2.
->- 클래스가 불변이고 해시코드를 계산하는 비용이 크다면 매번 새로 계산하기 보다 캐싱하는 방식을 고려해야 한다.
+## 2.
+>- Objects 클래스는 임의의 개수만큼 객체를 받아 해시코드를 계산해주는 정적 메서드인 hash 를 제공한다.
+- 하지만 이방식은 성능상으로 아쉬우므로 성능상 크게 문제가 되지 않을경우 사용하자.
 
 ~~~java
 @Override public int hashCode(){
 	return Objects.hash(lineNum , prefix , areaCode);
 }
 ~~~
+
+## 3.
+>- 클래스가 불변이고 해시코드를 계산하는 비용이 크다면 매번 새로 계산하기 보다 캐싱하는 방식을 고려해야 한다.
+- 해시의 키로 사용되지 않는 경우라면 hashCode 가 처음 불릴때 계산하는 지연 초기화 전략.
+- hashCode 필드의 초기값은 흔히 생성되는 객체의 해시코드와는 달라야 함을 주의하자.
+
+~~~java
+private int hashCode;
+
+@Override public int hashCode(){
+	int result = hashCode();
+    if(result == 0){
+    	result = Short.hashCode();
+        result = 31 * result + Short.hashCode(prefix);
+        result = 31 * result + Short.hashCode(lineNum);
+        hashCode = result;
+    }
+}
+~~~
+
+
+# 결론
+>- 성능을 높인다고 해시코드를 계산할때 핵심 필드를 생략해서는 안된다.
+- hashCode 가 반환하는 값의 생성 규칙을 API 사용자에게 자세히 공표하지 말자.
+  (그래야 클라이언트가 이 값에 의지하지 않게 되고 추후 계산방식을 변경할수 있다.)
