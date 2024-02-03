@@ -351,9 +351,9 @@ M
 src/chapter4/item15/item15.md,f/7/f771c2fa7a909e114c601562aa33bc0d47a09a8d
 M
 src/chapter4/item16/item16.md,e/7/e745fe1244253213d64bc484f7ca2a8aa69cf76f
-J
-src/chapter4/item17/item17,b/1/b1a696083873715c8261d294306b1ed7166ceef5
 M
 src/chapter4/item17/item17.md,5/7/57e9bb1dcd3f20670871432cc93703e035a1429d
 M
 src/chapter4/item18/item18.md,f/6/f67cff8568441abdb28a6d53e1179d3859f0ae45
+M
+src/chapter4/item19/item19.md,5/0/50c948724a18d9c382d0360a63f074d2c283d14c
