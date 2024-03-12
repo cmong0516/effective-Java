@@ -8,3 +8,4 @@
 Implementation Requirements : 이 메서드는 컬렉션을 순회하며 주어진 원소를 찾도록 구현되었고 주어진 원소를 찾으면 반복자의 remove 메서드를 사용해 컬렉션에서 제거한다.
 이 컬렉션이 주어진 객체를 갖고 있으나 iterator 메서드가 반환한 반복자가 remove 메서드를 구현하지 않았다면
 UnsupportedOpreationException 이 발생한다.
+
